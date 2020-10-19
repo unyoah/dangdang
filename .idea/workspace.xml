@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70383511-1e11-4083-8638-4099a01338d4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="dangdang" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>click_a</find>
+      <find>error</find>
+      <find>knet</find>
+      <find>endif</find>
+      <find>$('#password_div').children(0).removeClass()</find>
+      <find>f1</find>
+      <find>login_ad</find>
+      <find>img src=&quot;imag</find>
+      <find>src=&quot;imag</find>
+      <find>&quot;static//</find>
+      <find>总计</find>
+      <find>2015</find>
+      <find>结算</find>
+      <find>img</find>
+      <find>img src=&quot;images</find>
+      <find>购物车</find>
+      <find>session</find>
+      <find>form</find>
+      <find>href=&quot;css</find>
+      <find>clean</find>
+      <find>hi</find>
+      <find>user</find>
+      <find>我的</find>
+      <find>dangdang</find>
+      <find>logo</find>
+      <find>配送</find>
+      <find>www.dangdang.com</find>
+      <find>退出</find>
+      <find>add</find>
+      <find>onin</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>img src=&quot;static/ima</replace>
+      <replace>&quot;/static</replace>
+      <replace>top_selling1</replace>
+      <replace>top_selling2</replace>
+      <replace>top_comments</replace>
+      <replace>=&quot;/static/images/</replace>
+      <replace>=&quot;/static/css/</replace>
+      <replace>src=&quot;/static/js</replace>
+      <replace>src=&quot;/static/image</replace>
+      <replace>(../images</replace>
+      <replace>src=&quot;/static/imag</replace>
+      <replace>&lt;script src=&quot;/static/js/zh</replace>
+      <replace>(</replace>
+      <replace>img src=&quot;/static/i</replace>
+      <replace>src=&quot;static//imag</replace>
+      <replace>&quot;/static/</replace>
+      <replace>img src=&quot;/static/images</replace>
+      <replace>href=&quot;/static/css</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index/tests.py" />
+        <option value="$PROJECT_DIR$/static/css/index-style.css" />
+        <option value="$PROJECT_DIR$/templates/test.html" />
+        <option value="$PROJECT_DIR$/car/tests.py" />
+        <option value="$PROJECT_DIR$/index/urls.py" />
+        <option value="$PROJECT_DIR$/static/css/category_pub.css" />
+        <option value="E:/百知课程/中期项目/Day01/项目原型/login.html" />
+        <option value="$PROJECT_DIR$/user/urls.py" />
+        <option value="$PROJECT_DIR$/static/css/login.css" />
+        <option value="$PROJECT_DIR$/dangdang/settings.py" />
+        <option value="$PROJECT_DIR$/car/car.py" />
+        <option value="$PROJECT_DIR$/car/urls.py" />
+        <option value="$PROJECT_DIR$/dangdang/urls.py" />
+        <option value="$PROJECT_DIR$/templates/register.html" />
+        <option value="$PROJECT_DIR$/templates/login.html" />
+        <option value="$PROJECT_DIR$/templates/register ok.html" />
+        <option value="$PROJECT_DIR$/car/models.py" />
+        <option value="$PROJECT_DIR$/order/urls.py" />
+        <option value="$PROJECT_DIR$/templates/indent.html" />
+        <option value="$PROJECT_DIR$/car/views.py" />
+        <option value="$PROJECT_DIR$/index/views.py" />
+        <option value="$PROJECT_DIR$/templates/indent ok.html" />
+        <option value="$PROJECT_DIR$/templates/Book details.html" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/user/views.py" />
+        <option value="$PROJECT_DIR$/templates/booklist.html" />
+        <option value="$PROJECT_DIR$/order/views.py" />
+        <option value="$PROJECT_DIR$/templates/car.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1087" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dangdang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dangdang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dangdang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dangdang" type="462c0819:PsiDirectoryNode" />
+              <item name="car" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dangdang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dangdang" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/order" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Python&amp;web\dangdang\static" />
+      <recent name="E:\Python&amp;web\dangdang\templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Python&amp;web\dangdang\order" />
+      <recent name="E:\Python&amp;web\dangdang\static\js" />
+      <recent name="E:\Python&amp;web\dangdang" />
+      <recent name="E:\Python&amp;web\dangdang\index" />
+      <recent name="E:\Python&amp;web\dangdang\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.dangdang">
+    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dangdang" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/car" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/car/tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dangdang" type="Python.DjangoServer" factoryName="Django server">
+      <module name="dangdang" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="dangdang.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70383511-1e11-4083-8638-4099a01338d4" name="Default Changelist" comment="" />
+      <created>1599550163918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599550163918</updated>
+      <workItem from="1599550166598" duration="11777000" />
+      <workItem from="1599642180777" duration="7081000" />
+      <workItem from="1599651781682" duration="11294000" />
+      <workItem from="1599717751868" duration="16226000" />
+      <workItem from="1599739930442" duration="621000" />
+      <workItem from="1599785286967" duration="33513000" />
+      <workItem from="1599959169330" duration="26379000" />
+      <workItem from="1600043043772" duration="30987000" />
+      <workItem from="1600129673296" duration="3502000" />
+      <workItem from="1600133866286" duration="24323000" />
+      <workItem from="1600171107617" duration="10317000" />
+      <workItem from="1600216150332" duration="10000" />
+      <workItem from="1600216353791" duration="111000" />
+      <workItem from="1600218674528" duration="8901000" />
+      <workItem from="1600243347222" duration="1587000" />
+      <workItem from="1600245113205" duration="19020000" />
+      <workItem from="1600267662259" duration="384000" />
+      <workItem from="1600302400913" duration="11073000" />
+      <workItem from="1600648207677" duration="7950000" />
+      <workItem from="1600659591367" duration="1470000" />
+      <workItem from="1600766320531" duration="840000" />
+      <workItem from="1600772291164" duration="130000" />
+      <workItem from="1600772447825" duration="16000" />
+      <workItem from="1600772615836" duration="38000" />
+      <workItem from="1602158035062" duration="4610000" />
+      <workItem from="1602203830029" duration="598000" />
+      <workItem from="1603109740714" duration="310000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="233068000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="953" y="0" width="974" height="1087" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49295774" visible="true" weight="0.2822757" />
+      <window_info id="Structure" order="1" sideWeight="0.50625" side_tool="true" weight="0.2822757" />
+      <window_info id="Favorites" order="2" sideWeight="0.5010548" side_tool="true" weight="0.24726477" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.22741432" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997923" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4989059" weight="0.32914045" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50328225" side_tool="true" visible="true" weight="0.32948583" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49671772" weight="0.32809225" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32911393" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dangdang$tests.coverage" NAME="tests Coverage Results" MODIFIED="1599708110270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/car" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/static/images/750x315wen0103.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/750x3151.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/index-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1556">
+          <caret line="617" column="20" selection-start-line="617" selection-start-column="20" selection-end-line="617" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/test.html" />
+    <entry file="file://$PROJECT_DIR$/index/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/car/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dangdang_env/Lib/site-packages/django/core/paginator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/category_pub.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="558" column="67" selection-start-line="558" selection-start-column="67" selection-end-line="558" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/jquery-1.11.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/validate.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/img01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/icon_sprite.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/icon_cart.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/sigin_bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/li-icon.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/hyw_zt_199x178_1013.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/icon_clubs.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/zhuce/pagetop_20121010.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19527">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/icon_20150706.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://E:/百知课程/中期项目/Day01/项目原型/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="24" column="69" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="69" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/百知课程/中期项目/Day01/项目原型/register ok.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2475">
+          <caret line="99" column="76" selection-start-line="99" selection-start-column="76" selection-end-line="99" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/img04.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/header_960_150611.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4855" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/tab.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/pagetop2015_0827.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14413">
+          <caret line="803" column="9" selection-start-line="803" selection-start-column="9" selection-end-line="803" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#37#43#1" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="58" lean-forward="true" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dangdang/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding>
+            <element signature="e#632#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/car/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/百知课程/中期项目/Day01/项目原型/indent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-275">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/car/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2100">
+          <caret line="99" column="20" selection-start-line="99" selection-start-column="20" selection-end-line="99" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/indent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#select#0;n#li#1;n#ul#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#select#1;n#li#1;n#ul#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="78" column="59" selection-start-line="78" selection-start-column="59" selection-end-line="78" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/register ok.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../django03/ems/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="48" column="67" selection-start-line="48" selection-start-column="67" selection-end-line="48" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1625">
+          <caret line="70" column="28" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Book details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19075">
+          <caret line="763" column="56" selection-start-line="763" selection-start-column="56" selection-end-line="763" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/indent ok.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2625">
+          <caret line="105" column="111" selection-start-line="105" selection-start-column="111" selection-end-line="105" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2010">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="62" column="116" selection-start-line="62" selection-start-column="116" selection-end-line="62" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/booklist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69050">
+          <caret line="2762" column="96" selection-start-line="2762" selection-start-column="96" selection-end-line="2762" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dangdang/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="122" column="75" selection-start-line="122" selection-start-column="75" selection-end-line="122" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/car/car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="694">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/car.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="295" column="201" selection-start-line="295" selection-start-column="201" selection-end-line="295" selection-end-column="201" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/car/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="854">
+          <caret line="71" column="52" selection-start-line="71" selection-start-column="52" selection-end-line="71" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
